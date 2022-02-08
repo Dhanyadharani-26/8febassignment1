@@ -1,0 +1,15 @@
+#comparison operators
+A=int(25)
+B=int(30)
+A<B
+Print('true')
+A>B
+Print('false')
+A<=B
+Print('false')
+A>=B
+Print('false')
+A==B
+Print('false')
+A!=B
+Print('true')
