@@ -1,0 +1,4 @@
+#kilometers into centimetres
+Kilometres=int(input('Enter no of kilometres:'))
+Centimetres=kilometres*100000
+Print('value in centimetres:', centimetres)
