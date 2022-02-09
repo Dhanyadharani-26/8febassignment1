@@ -1,0 +1,10 @@
+#even or odd number
+num=int(input("Enter the number:")
+if(num % 2)==0:
+  Print("The number is even")
+else:
+  Print("The number is odd")
+
+Output:
+Enter the number:77
+The number is odd
