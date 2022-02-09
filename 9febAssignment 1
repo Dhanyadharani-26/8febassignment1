@@ -1,0 +1,12 @@
+#biggest of two numbers
+a=int(input("Enter the number:")
+b=int(input("Enter the number:")
+if(a>b):
+  Print("a is biggest number")
+else:
+  Print("b is biggest number")
+
+Output:
+Enter the number:77
+Enter the number:99
+b is biggest number
