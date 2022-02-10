@@ -1,0 +1,35 @@
+#6 subjects marks 
+Sno=int(input('Enter student no:'))
+Same=input('Enter student name:')
+Sgroup=input('Enter student group:')
+S1=int(input('Telugu marks:'))
+S2=int(input('English marks:'))
+S3=int(input('Environmental education marks:'))
+S4=int(input('Accounts marks:'))
+S5=int(input('Operating system marks:'))
+S6=int(input('Java marks:'))
+if S1>=35 and S2>=35 and s3>=35 and s4>=35 and s5>=35 and s5>=35:
+  Print('Pass')
+else:
+  Print('Fail')
+
+Output:
+Enter student no:
+24
+Enter student name:
+dharani
+Enter student group:
+BCA
+Telugu marks:
+77
+English marks:
+89
+Environmental education:
+91
+Accounts:
+90
+Operating system:
+83
+Java:
+98
+Pass
