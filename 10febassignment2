@@ -1,0 +1,11 @@
+#positive or negetive
+Num=int(input('Enter the number:')
+if(num>0):
+  Print('positive number')
+else:
+  Print('negetive number')
+
+Output:
+Enter the number:
+77
+Positive number
